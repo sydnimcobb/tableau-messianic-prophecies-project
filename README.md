@@ -6,3 +6,6 @@ Tableau dashboard visualizing Messianic prophecies in the biblical canon, connec
 - 'Final Project DATA 605-1.twb' - Tableau dashboard
 - 'Final Project DATA 605-1.doc' - Narrative and methodology
 - 'Final Project Data 605.ppt' - PowerPoint presentation
+
+# Interactive Workbook
+I will soon upload the workbook to Tableau Public so viewers can access the interactive feature.
